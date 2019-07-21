@@ -7,7 +7,7 @@
 <?php 
 //only execute once at installing the system!
 //configs under this line:
-$password = "password"; //replace 'password' with a secure password from your database. Please dont use your standart password. Use somtling like this: 'It3de8nq13' 
+$password = "password"; //replace 'password' with a secure password from your database. Please dont use your standart password. Use something like this: 'It3de8nq13' 
 $loginpassword = "password"; //repalce 'password' with a secure login password. This password is used to login later into the webinterface! Here you could use your normal password. 
 //config end
 
