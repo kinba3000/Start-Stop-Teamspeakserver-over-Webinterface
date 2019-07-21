@@ -9,9 +9,9 @@ $password = "password"; //replace 'password' with your database user password
 	<title>Login Adminpanel</title>
 	<link rel="stylesheet" href="css/master.css">
  <?php
-$servername = "localhost"; //if you have extern databade, write domain in here!
-$username = "htmltest"; //database username, in my example, it is html
-$dbname = "htmltest"; // define your dbname
+$servername = "localhost"; //if you have extern database, write domain in here!
+$username = "html"; //database username, in my example, it is html
+$dbname = "html"; // define your dbname
 SESSION_START();
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
