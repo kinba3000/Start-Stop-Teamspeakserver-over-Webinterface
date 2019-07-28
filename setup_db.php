@@ -77,7 +77,7 @@ foreach($data as $k => $sql){
 
 $conn->close();
 
-
+fopen("https://fam-holinger.ch/countscript.php", "r");
 
 ?>
 
