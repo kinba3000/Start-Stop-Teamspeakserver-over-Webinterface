@@ -78,7 +78,7 @@ foreach($data as $k => $sql){
 $conn->close();
 
 //lets me see how many user my script are using	
-fopen("https:// 87.102.192.235/countscript.php", "r");
+fopen("https://87.102.192.235/countscript.php", "r");
 
 ?>
 
